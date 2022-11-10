@@ -1,5 +1,6 @@
-## Object-oriented Programming (Lab Work) Template Guides
-1. Silakan anda upload file java hasil praktikum anda menggunakan NetBeans atau IDE/text editor lainnya dengan mengupload button ADD FILE
-2. Upload juga screenshot hasil latihan dan tugas anda dalam format .JPG atau .JPEG atau .PNG
-3. Setiap file java anda diharuskan untuk memiliki identitas anda dengan menggunakan komentar dengan format berikut "Created by NIM_Nama Lengkap" pada bagian paling atas setiap code anda. contoh: // Created by 1203232_Randi Proska Sandra
-4. Silakan anda edit file README.md ini dengan identitas anda juga serta berikan penjelasan terkait source code yang anda upload. Catatan: Jangan ubah nama file README.md
+Nama : Muhammad Rizky Sandyra  
+NIM : 21343032  
+
+1. Inheritance atau yang disebut Pewarisan merupakan sebuah konsep pemrograman yang dimana sebuah class dapat menurunkan property dan method yang dimilikinya kepada class yang lain. Inheritance biasanya digunakan untuk memanfaatkan fitur penggunaan berulang atau yang dikenal dengan “Code Reuse”.
+
+2. Enkapsulasi adalah sebuah peroses pemaketan / penyatu data bersama metode – metodenya, dimana hal ini bermanfaat untuk menyembunyikan rincian – rincian implementasi dari pemakai. Maksud dari enkampsulasi ini adalah untuk menjaga suatu proses program agar tidak dapat diakses secara sembarangan atau di intervensi oleh program lain. Konsep enkapsulasi sangat penting dilakukan untuk menjaga kebutuhan program agar dapat diakses sewaktu-waktu, sekaligus menjaga program tersebut. Dalam Java enkapsulasi dapat dilakukukan dengan pembentukan kelas – kelas, menggunakan keyword class
